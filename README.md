@@ -10,8 +10,9 @@ Mobile-based E-Voting with Android Studio is a client application for voting usi
   1. Log in with manual input
   2. Log in with QRcode Scanner
   3. SQLite Database
-  4. Server Configuration
-  5. Location Maps
+  4. Session Management
+  5. Server Configuration
+  6. Location Maps
   
 ## Screenshot Aplication
 
