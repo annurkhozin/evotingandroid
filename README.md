@@ -1,4 +1,4 @@
-## e-Voting Android 
+## electronic Voting System 
 Mobile-based E-Voting with Android Studio is a client application for voting using rest technology on the server
 
 ## Requirements
